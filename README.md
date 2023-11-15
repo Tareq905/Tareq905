@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tareq905
-- 👀 I’m interested in Creating projects also Cyber Security
+- 👀 I know Swift, Python, Java Script, Kotlin, React js, Bash, PHP, HTML, CSS
 - 🌱 I’m currently Doing job and also looking for a better future.
 - 💞️ I’m looking to collaborate on Swift
 - 📫 How to reach me tareqshah.027@gmail.com
