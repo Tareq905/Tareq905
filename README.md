@@ -3,6 +3,7 @@
 - 🌱  Looking for a better future.
 - 💞️ I’m looking to collaborate on DAAP
 - 📫 How to reach me tareqshah.027@gmail.com
+- 🔖 My slogan "Crack the Code, Rewrite the Future: One Line at a Time". 
 
 <!---
 Tareq905/Tareq905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
