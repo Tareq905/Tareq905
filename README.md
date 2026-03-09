@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="720">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="720">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Tareq Shah Alam</h1>
