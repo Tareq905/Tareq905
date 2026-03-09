@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/216654112-9c0d4b72-8d4e-4d0b-b5f4-6f3c1c9d4d2a.gif" width="640">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-9c0d4b72-8d4e-4d0b-b5f4-6f3c1c9d4d2a.gif" width="640">
+</p>
+
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Md Tareq Shah Alam</h1>
