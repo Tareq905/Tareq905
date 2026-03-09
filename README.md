@@ -1,20 +1,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="640">
 <br><br>
 
-<h1 align="center">Hi 👋, I'm Rifat Hossan</h1>
-<h3 align="center">A passionate UI/UX Designer from Bangaldesh</h3>
+<h1 align="center">Hi 👋, I'm Md Tareq Shah Alam</h1>
+<h3 align="center">A passionate Artificial Intelligence Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hossan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tareq905&label=Profile%20views&color=0e75b6&style=flat" alt="Tareq905" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-hossan" alt="rifat-hossan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tareq905" alt="Tareq905" /></a> </p>
 
-- 🔭 I’m currently working on [Betopia Website]([https://www.figma.com/design/uPrZHV2jqtdQy6YThbyx5c/Operational?node-id=0-1&p=f&t=i4D42hsxl4y0GPYE-0](https://betopiagroup.com/))
+- 🔭 I’m currently working on **AI & Computer Vision Projects**
 
-- 🌱 Skilled on **Computer Vision, Augmented Reality**
+- 🌱 Skilled in **Computer Vision, Augmented Reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tareq905?tab=repositories](https://github.com/Tareq905?tab=repositories)
 
-- 💬 Ask me about **AI, Blockchain**
+- 💬 Ask me about **AI, Blockchain, and Machine Learning**
 
 - 📫 How to reach me **tareqshah.027@gmail.com**
 
@@ -59,5 +59,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Tareq905/Tareq905/output/snake.svg" />
 </p>
