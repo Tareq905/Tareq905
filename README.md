@@ -54,5 +54,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tareq905/Tareq905/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
 </p>
