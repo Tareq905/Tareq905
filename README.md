@@ -9,23 +9,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tareq905" alt="Tareq905" /></a> </p>
 
 - 🔭 I’m currently working on **AI & Computer Vision Projects**
-
 - 🌱 Skilled in **Computer Vision, Augmented Reality**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tareq905?tab=repositories](https://github.com/Tareq905?tab=repositories)
-
 - 💬 Ask me about **AI, Blockchain, and Machine Learning**
-
 - 📫 How to reach me **tareqshah.027@gmail.com**
-
 - ⚡ Fun fact **Eating, Sleeping, Travelling**
 
-**<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-tareq-shah-alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tareq-shah-alam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tareqshahalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tareqshahalam" height="30" width="40" /></a>
-<a href="https://md-tareq-shah-alam.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
-</p>**
+<a href="https://www.linkedin.com/in/md-tareq-shah-alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tareqshahalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://md-tareq-shah-alam.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,12 +43,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tareq905&show_icons=true&locale=en&layout=compact" alt="Tareq905" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tareq905&show_icons=true&locale=en" alt="Tareq905" height="165" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tareq905&show_icons=true&locale=en&layout=compact" alt="top-langs" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tareq905&show_icons=true&locale=en" alt="stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tareq905&" alt="Tareq905" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tareq905&" alt="streak" />
 </p>
 
 ## 🐍 Contribution Snake
