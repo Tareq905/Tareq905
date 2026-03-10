@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Machine+Learning+Enthusiast;AI+Systems+Builder" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tareq905&label=Profile%20views&color=0e75b6&style=flat" alt="Tareq905" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
