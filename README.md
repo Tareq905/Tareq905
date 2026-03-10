@@ -80,7 +80,7 @@
 
 <img src="https://img.shields.io/badge/Augmented%20Reality-AR-blueviolet?style=for-the-badge&logo=unity&logoColor=white"/>
 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/> -->
 
 </p>
 
