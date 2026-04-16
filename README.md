@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://tareq-ai-animation.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tareq905/Tareq905/main/ezgif-86c2cd3b967a965c.gif" width="720">
-  </a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="720">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Tareq Shah Alam</h1>
@@ -54,16 +52,6 @@
 
 ---
 
-# 🎬 Live AI Animation
-
-<p align="center">
-  <a href="https://tareq-ai-animation.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Animation-Click%20Here-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 # 🧠 Languages
 
 <p align="center">
@@ -92,6 +80,8 @@
 
 <img src="https://img.shields.io/badge/Augmented%20Reality-AR-blueviolet?style=for-the-badge&logo=unity&logoColor=white"/>
 
+<!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/> -->
+
 </p>
 
 ---
@@ -99,7 +89,16 @@
 # 📊 GitHub Statistics
 
 <p align="center">
+
+
+<p align="center">
+
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tareq905&theme=tokyonight"/>
+
 </p>
 
 ---
