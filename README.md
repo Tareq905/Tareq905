@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tareq-ai-animation.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tareq905/Tareq905/main/ai-animation.gif" width="720">
+    <img src="https://raw.githubusercontent.com/Tareq905/Tareq905/main/ezgif-86c2cd3b967a965c.gif" width="720">
   </a>
 </p>
 
